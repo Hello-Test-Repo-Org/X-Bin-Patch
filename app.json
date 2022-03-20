@@ -1,12 +1,12 @@
 {
-    "name": "Mega-Deployer",
-    "description": "Deploy the original Mega.nz-Bot",
-    "logo": "https://telegra.ph/file/12b04d613cfeede2c100c.jpg",
+    "name": "MDeployer",
+    "description": "Deploy the original . . .",
+    "logo": "https://imgs.search.brave.com/ugE214LpMvQScFiztLmJixhMkAvjz8NHEQMEtD_S0fE/rs:fit:800:940:1/g:ce/aHR0cHM6Ly9pbWcw/MC5kZXZpYW50YXJ0/Lm5ldC82ZmU5L2kv/MjAxNy8wNDEvZi9i/L2NoaWJpX21lZ3Vt/aW5fYnlfcGFsZW8y/Ny1kYXlrZWJuLnBu/Zw",
     "keywords": [
         "Telegram Bot"
     ],
     "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/X-Bin-Patch",
+    "repository": "https://github.com/Hello-Test-Repo-Org/X-Bin-Patch",
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
         "APP_ID": {
